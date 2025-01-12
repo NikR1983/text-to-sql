@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.myenv1/etc/
+.myenv1/lib/
+.myenv1/include/
+.myenv1/Scripts/
+.myenv1/pyvenv.cfg
+.myenv1/share/
+.myenv1/
