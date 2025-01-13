@@ -1,0 +1,7 @@
+OPENAI_API_KEY = ""
+LLM_MODEL_NAME = "gpt-4-0125-preview"
+USER = ""
+PASSWORD = ""
+HOST = ""
+DATABASE = ""
+PORT = 3306
